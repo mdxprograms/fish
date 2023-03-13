@@ -51,7 +51,6 @@ SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
 SETUVAR fish_user_paths:/home/d4rkst4r/\x2elocal/bin\x1e/Users/jwaller/\x2epoetry/bin\x1e/Library/Developer/CommandLineTools/Library/Frameworks/Python3\x2eframework/Versions/3\x2e8/bin\x1e/usr/bin\x1e/usr/local/bin\x1e/opt/homebrew/bin
-SETUVAR nvm_default_version:v18\x2e4\x2e0
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_check_for_new_release:false
 SETUVAR pure_color_at_sign:pure_color_mute
