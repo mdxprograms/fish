@@ -1,5 +1,9 @@
 function gclean
-  set base_branch development
+  if not set -q argv[1]
+    set base_branch main
+  else
+    set base_branch $arv
+  end
 
   # work from our base branch
   git checkout $base_branch
